@@ -117,11 +117,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Prabakaran Chandran"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am a Data Scientist and Machine Learning Engineer with 6 years of hands-on experience building data science and machine learning solutions across industries, including CPG, Power, Oil & Gas, and niche areas like Seafood Supply Chain and Data Observability. I love to explore, experiment, and build around AI and Data Science, with a focus on Organizational General Intelligence, Decision Engineering, and Reasoning. To me, Decision Engineering is the seamless blend of Data Science and AI Engineering, creating impactful solutions that bridge complex challenges with intelligent systems."
+  location         : "Bengaluru"
+  email            : "prabakaran.chandran98@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
