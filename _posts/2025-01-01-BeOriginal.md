@@ -1,6 +1,20 @@
-
-
+---
+title: "Be Original: Just Do Things with Clarity and Focus"
+categories:
+  - logs
+tags:
+  - reflections
+date: 2025-01-01
+layout: single
+classes: wide
+author_profile: false
+read_time: true
+comments: false
+share: false
+related: true
+---
 # Be Original: Just Do Things with Clarity and Focus
+
 ---
 
 ## DO NOT Get Caught or Swayed by Trends or What the Crowd Wants
