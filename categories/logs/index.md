@@ -8,8 +8,4 @@ classes: wide
 author_profile: true
 ---
 
-{% for post in site.categories.logs %}
-- [{{ post.title }}]({{ post.url }})
-{% endfor %}
-
 
