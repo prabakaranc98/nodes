@@ -1,5 +1,5 @@
 ---
-title: "Your Post Title"
+title: "Check 1"
 categories:
   - logs
 tags:
