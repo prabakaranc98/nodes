@@ -7,17 +7,15 @@ tags:
 date: 2025-01-01
 layout: single
 classes: wide
-author_profile: false
 read_time: true
 comments: false
 share: false
 related: true
+author: Prabakaran Chandran
+author_profile: true
 ---
-# Be Original: Just Do Things with Clarity and Focus
 
----
-
-## DO NOT Get Caught or Swayed by Trends or What the Crowd Wants
+DO NOT Get Caught or Swayed by Trends or What the Crowd Wants
 
 I feel comfortable and “original”—unfiltered and factual to the self—when I write this on an untitled Google Document. However, whenever I write on platforms like Medium, Notion, or especially LinkedIn, I get swayed by “the need to put hooks that catch more engagement or increase the hype.”
 
