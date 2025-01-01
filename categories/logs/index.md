@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "Daily Logs"
+title: "daily logs"
 permalink: /categories/logs/
 ---
 

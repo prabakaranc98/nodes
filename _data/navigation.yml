@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
 
-  - title: "daily Logs"
+  - title: "daily logs"
     url: /categories/logs/
 
   - title: "insights"

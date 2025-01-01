@@ -1,7 +1,16 @@
 ---
-layout: post
-title: "Today's Daily Log"
+title: "Your Post Title"
+categories:
+  - logs
+  - insights
+tags:
+  - your-tags
 date: 2025-01-01
-categories: daily-logs
+layout: single
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 Content for the daily log goes here.
