@@ -3,14 +3,14 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Daily Logs"
-    url: /categories/daily-logs/
+  - title: "daily Logs"
+    url: /categories/logs/
 
-  - title: "Insights"
+  - title: "insights"
     url: /categories/insights/
 
-  - title: "Blogs"
+  - title: "blogs"
     url: /categories/blogs/
 
-  - title: "Experiments"
+  - title: "experiments"
     url: /categories/experiments/

@@ -1,0 +1,9 @@
+---
+layout: category
+title: "Daily Logs"
+permalink: /categories/logs/
+---
+
+{% for post in site.categories.logs %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
