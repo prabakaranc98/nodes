@@ -1,5 +1,5 @@
 ---
-title: "Your Post Title"
+title: "Systems to Magnify the Signals  - Causal and Graphical"
 categories:
   - logs
 tags:
